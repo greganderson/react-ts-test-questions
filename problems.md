@@ -41,7 +41,7 @@ numbers.forEach(number => console.log(number));
 ```
 </details>
 
-Question 2: Use `forEach` to log each element of the array `['a', 'b', 'c']` with its index.
+Question 2: Use `forEach` to log each element of the array `['a', 'b', 'c']` and its index.
 
 <details>
     <summary>Solution</summary>
